@@ -11,13 +11,13 @@ REG.NO.: 212223040147
 ```
 ---
 
-## ** Aim**
+## **Aim**
 
 To analyze user pain points, write UX problem statements, choose suitable UX research methods, and create user personas for two different application scenarios using one real website per scenario.
 
 ---
 
-## ** Algorithm**
+## **Algorithm**
 
 1. Select two UX scenarios.
 2. Choose one real website for each scenario.
@@ -160,7 +160,7 @@ Interviews help uncover **personal goals and emotional barriers**.
 
 # -------------------------------------------------------------
 
-# 📤 **Output**
+# **Output**
 
 The experiment produces:
 
